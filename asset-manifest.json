@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ReduxGraphQL/static/css/main.7b7f78aa.chunk.css",
-    "main.js": "/ReduxGraphQL/static/js/main.8a6465a8.chunk.js",
-    "main.js.map": "/ReduxGraphQL/static/js/main.8a6465a8.chunk.js.map",
-    "runtime-main.js": "/ReduxGraphQL/static/js/runtime-main.934294cc.js",
-    "runtime-main.js.map": "/ReduxGraphQL/static/js/runtime-main.934294cc.js.map",
-    "static/css/2.5269b085.chunk.css": "/ReduxGraphQL/static/css/2.5269b085.chunk.css",
-    "static/js/2.ef095e10.chunk.js": "/ReduxGraphQL/static/js/2.ef095e10.chunk.js",
-    "static/js/2.ef095e10.chunk.js.map": "/ReduxGraphQL/static/js/2.ef095e10.chunk.js.map",
-    "index.html": "/ReduxGraphQL/index.html",
-    "precache-manifest.ff10da780afddaffa58123f39aa2dc76.js": "/ReduxGraphQL/precache-manifest.ff10da780afddaffa58123f39aa2dc76.js",
-    "service-worker.js": "/ReduxGraphQL/service-worker.js",
-    "static/css/2.5269b085.chunk.css.map": "/ReduxGraphQL/static/css/2.5269b085.chunk.css.map",
-    "static/css/main.7b7f78aa.chunk.css.map": "/ReduxGraphQL/static/css/main.7b7f78aa.chunk.css.map",
-    "static/js/2.ef095e10.chunk.js.LICENSE.txt": "/ReduxGraphQL/static/js/2.ef095e10.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "/ReduxGraphQL/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "./static/css/main.7b7f78aa.chunk.css",
+    "main.js": "./static/js/main.b78f3cd6.chunk.js",
+    "main.js.map": "./static/js/main.b78f3cd6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.13588be4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.13588be4.js.map",
+    "static/css/2.5c1ee032.chunk.css": "./static/css/2.5c1ee032.chunk.css",
+    "static/js/2.295a930c.chunk.js": "./static/js/2.295a930c.chunk.js",
+    "static/js/2.295a930c.chunk.js.map": "./static/js/2.295a930c.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.d7bddd2c44b98460cc754d5203bee5da.js": "./precache-manifest.d7bddd2c44b98460cc754d5203bee5da.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.5c1ee032.chunk.css.map": "./static/css/2.5c1ee032.chunk.css.map",
+    "static/css/main.7b7f78aa.chunk.css.map": "./static/css/main.7b7f78aa.chunk.css.map",
+    "static/js/2.295a930c.chunk.js.LICENSE.txt": "./static/js/2.295a930c.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "./static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.934294cc.js",
-    "static/css/2.5269b085.chunk.css",
-    "static/js/2.ef095e10.chunk.js",
+    "static/js/runtime-main.13588be4.js",
+    "static/css/2.5c1ee032.chunk.css",
+    "static/js/2.295a930c.chunk.js",
     "static/css/main.7b7f78aa.chunk.css",
-    "static/js/main.8a6465a8.chunk.js"
+    "static/js/main.b78f3cd6.chunk.js"
   ]
 }
